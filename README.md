@@ -67,9 +67,10 @@ Forecasting
 - Helped identify profitable products and regions.
 - Enhanced reporting and performance monitoring.
 
-🖼 Dashboard Preview
-Screenshots/s.jfif
-Screenshots/ss.jfif
+## 🖼 Dashboard Preview
+
+![Dashboard](Screenshots/s.jfif)
+![Dashboard](Screenshots/ss.jfif)
 
 🚀 Skills Demonstrated
 Data Analysis
